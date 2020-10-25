@@ -1,5 +1,4 @@
 # Alipay
-# Alipay
 
 ​    The alipay program simulates the transfer of Alipay funds to a bank card. The program calculates the handling fee that the transfer party needs to provide based on the personal account information of the user, the transfer party. Handling fees need to be paid by the transfer party.
 
