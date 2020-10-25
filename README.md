@@ -18,6 +18,7 @@
 | transferAmount     | Double  | transfer amount                                              |                      |
 
 2. output specifications
+
    The output parameters are "handlingFee", which type is double. 
 
 3. Description of MRs
