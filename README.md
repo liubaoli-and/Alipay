@@ -24,7 +24,7 @@
 3. Description of MRs
    The service interface tested this time is TransfersCard. Twenty transformation relationships are designed in the design MRs. The specific expression of the transformation relationship is shown in the table.
 
-   <table><tr><td>No</td><td>R</td><td>Rf</td></tr>
+   <table><tr><td>No.</td><td>R</td><td>Rf</td></tr>
    <tr><td colspan='3'><center>1.isVerified=false, transferMethod = 1</center></td></tr>
    <tr><td>MR1</td><td>transferAmount_=transferAmount+1<br> (1.02*transferAmount<=moneyInBalance-1.02)</td><td>handlingFee_=handlingFee+0.02</td></tr> 
        <tr><td>MR2</td><td> transferAmount_=transferAmount+1<br>(transferInBalance<1.02*transferAmount)</td><td>handlingFee_=handlingFee=-1</td></tr>
